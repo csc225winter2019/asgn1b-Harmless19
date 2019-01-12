@@ -1,0 +1,20 @@
+Part 1: Touring the LC-3 Simulator
+
+1. By default the LC-3's Program Counter is set to 0x3000.
+2. The value at memory location 0x0023 in binary is 0000010010100000.
+3. The value at memory locationi 0xFFFE in hex is 0x7FFF.
+4. The binary opcode is 0110 and the name of the instruction is LDR at memory
+location 0x04E6.
+
+Part 2: Running LC-3 Instructions
+1. 
+	a.) The value of R0 in hex is 0x0064
+	b.) The value of R1 in decimal is 35 
+
+2. The value of R2 in hex is 0x0087.
+
+Part 3: Add, And, and Not
+ 
+	a.) 0x1220 // copies the value of R0 into R1
+	b.) 0x5020 // clears R0 completely
+	c.) 0x503B // clears bit 2 of R0 using an AND
